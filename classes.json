@@ -1,0 +1,80 @@
+[
+  {
+    
+    "name": "Artwork",
+    "image": "https://i.ibb.co/K7rLH3g/artwork.jpg",
+    "availableSeats": 781,
+    "price": "70",
+    "description": "This designer's work beautifully captures the essence of each country, using vibrant colors and intricate patterns that reflect the culture and landscapes.",
+    "instructorName": "Mpho Sedikwa",
+    "instructorEmail": "sedikwampho28@gmail.com",
+    "status": "approved",
+    "totalEnrolled": 9,
+    "reason": null
+  },
+  {
+    
+    "name": "Traditional attire",
+    "image": "https://i.ibb.co/qW4PFfH/traditional-dress.jpg",
+    "availableSeats": 516,
+    "price": "50",
+    "description": "Thabo Morake is a young, passionate designer from Mafikeng who specializes in creating stunning traditional attire. Drawing inspiration from his rich cultural heritage, he blends vibrant fabrics with modern silhouettes, making his designs both contemporary and deeply rooted in tradition.",
+    "instructorName": "Thabo Morake",
+    "instructorEmail": "thabomorake@gmail.com",
+    "status": "approved",
+    "totalEnrolled": 4,
+    "reason": null
+  },
+  {
+    
+    "name": "Jewelry",
+    "image": "https://i.ibb.co/rfJJgf2/jewllery-transformed.jpg",
+    "availableSeats": 782,
+    "price": "50",
+    "description": "This jewelry designer crafts exquisite pieces that blend elegance with complex detailing, each one a wearable work of art.",
+    "instructorName": "Naledi Joy Mokwena",
+    "instructorEmail": "naledijoy@gmail.com",
+    "status": "approved",
+    "totalEnrolled": 8,
+    "reason": null
+  },
+  {
+   
+    "name": "Handy Crafts",
+    "image": "https://i.ibb.co/N6bksRc/handicrafts.jpg",
+    "availableSeats": 516,
+    "price": "50",
+    "description": "Yanda Mazibuko is an artist that infuses creativity and care into every handcrafted piece, blending traditional techniques with modern aesthetics.",
+    "instructorName": "Yanda Mazibuko",
+    "instructorEmail": "yandamazibuko4@gmail.com",
+    "status": "approved",
+    "totalEnrolled": 4,
+    "reason": null
+  },
+  {
+   
+    "name": "Historic art",
+    "image": "https://i.ibb.co/XLVgd5f/historic.jpg",
+    "availableSeats": 516,
+    "price": "50",
+    "description": "Each piece tells a story, transforming key moments in history into visually stunning narratives that resonate with modern audiences.",
+    "instructorName": "Jabulani Sekele",
+    "instructorEmail": "jabulanis@gmail.com",
+    "status": "approved",
+    "totalEnrolled": 4,
+    "reason": null
+  },
+  {
+    
+    "name": "Traditional blankets",
+    "image": "https://i.ibb.co/HKJvShH/blankets.jpg",
+    "availableSeats": 20,
+    "price": "120",
+    "description": "This designer crafts exquisite traditional blankets, blending cultural heritage with intricate patterns and high-quality materials",
+    "instructorName": "Dineo Mapaseka Dhlamini",
+    "instructorEmail": "dineodesigns@gmail.com",
+    "status": "approved",
+    "totalEnrolled": 0,
+    "reason": null
+  }
+]
